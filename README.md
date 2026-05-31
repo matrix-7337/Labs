@@ -1,3 +1,5 @@
+<img src="City Of Houston Pixel Art GIF by Coog Mania.gif" width="1000" height="300">
+
 # 🧪 Labs Portfolio
 
 Central index of all cybersecurity, networking, and system labs completed through structured learning platforms, books, and hands-on practice.
